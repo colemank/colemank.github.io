@@ -1,2 +1,2 @@
-# ways-to-give.github.io
-github pages test for my ways to give webpage
+# ways-to-give
+building a landing page for the multiple ways people can donate 
